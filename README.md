@@ -25,4 +25,4 @@
 
 </br>
 
-### *Move directly to the code for the [Project](https://github.com/GirijaShankarPanda/The_Tic-Tac-Toe/blob/main/MILESTONE%20PROJECT%20-%201%20(TIC%20TAC%20TOE%20-%202%20Player%20Game).ipynb) .*
+### *Move directly to the code for the [Project](https://github.com/GirijaShankarPanda/The_Tic-Tac-Toe/blob/main/%20(TIC%20TAC%20TOE%20-%202%20Player%20Game).ipynb) .*
