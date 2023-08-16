@@ -1,4 +1,7 @@
 # `The Tic-Tac-Toe` :
+
+![screen-6](https://github.com/GirijaShankarPanda/The_Tic-Tac-Toe/assets/104772357/a9dc54b6-6acb-4976-920a-47d238436a2b)
+
 ### A simple Tic-Tac-Toe game project using Jupyter Notebook in Python.
 
 </br>
